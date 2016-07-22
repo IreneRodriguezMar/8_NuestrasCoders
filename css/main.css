@@ -1,0 +1,24 @@
+div{/* alinea mis imagenes */
+position: relative;
+float: left;
+position: inline-block;
+margin:10px;
+padding-right: 50px;
+}
+.texto{ /* da color al texto y posicionamiento dentro de la imagen */
+color:white;
+position: absolute;
+top:170px;
+left: 70px;
+}
+hr{/* tamaño y posicion al hr */
+background-color: black;
+width: 500px;
+height: 1px;
+position: left;
+}
+.logo{/* coloca al logo */
+display:inline-block;
+width: 600px;
+margin-left: 350px;
+	}
